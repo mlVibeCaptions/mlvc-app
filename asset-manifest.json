@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.0f173c31.css",
-    "main.js": "/static/js/main.e0d275e0.js",
-    "static/js/787.f6de1c4b.chunk.js": "/static/js/787.f6de1c4b.chunk.js",
-    "service-worker.js": "/service-worker.js",
-    "index.html": "/index.html",
-    "main.0f173c31.css.map": "/static/css/main.0f173c31.css.map",
-    "main.e0d275e0.js.map": "/static/js/main.e0d275e0.js.map",
-    "787.f6de1c4b.chunk.js.map": "/static/js/787.f6de1c4b.chunk.js.map"
+    "main.css": "/mlvc-app/static/css/main.0f173c31.css",
+    "main.js": "/mlvc-app/static/js/main.40fee9b0.js",
+    "static/js/787.f6de1c4b.chunk.js": "/mlvc-app/static/js/787.f6de1c4b.chunk.js",
+    "service-worker.js": "/mlvc-app/service-worker.js",
+    "index.html": "/mlvc-app/index.html",
+    "main.0f173c31.css.map": "/mlvc-app/static/css/main.0f173c31.css.map",
+    "main.40fee9b0.js.map": "/mlvc-app/static/js/main.40fee9b0.js.map",
+    "787.f6de1c4b.chunk.js.map": "/mlvc-app/static/js/787.f6de1c4b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0f173c31.css",
-    "static/js/main.e0d275e0.js"
+    "static/js/main.40fee9b0.js"
   ]
 }
